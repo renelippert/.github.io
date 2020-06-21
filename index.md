@@ -14,3 +14,4 @@ These books have inspiered me a lot. They are now also part of my daily work lif
 > Learning hurts as you are confronted with failing. If you are already perfect there is nothing to learn.
 > Tell me how it feels to burn your finger.
 
+![GitHub Logo](/images/logo.png)
